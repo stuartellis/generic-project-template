@@ -4,7 +4,7 @@
 #
 # Defaults for editor applications
 #
-# https://EditorConfig.org
+# See: https://EditorConfig.org
 
 # Specifies that this is the top-level EditorConfig
 root = true
