@@ -27,7 +27,6 @@ repos:
     rev: "0.28.4"
     hooks:
       - id: check-gitlab-ci
-      - id: check-taskfile
   - repo: https://github.com/adrienverge/yamllint.git
     rev: "v1.35.1"
     hooks:
@@ -35,6 +34,12 @@ repos:
         args: [--strict]
   - repo: local
     hooks:
+      - id: check-justfile
+        name: check justfile
+        entry: just
+        language: system
+        args: [--unstable, --fmt, --check, -f]
+        files: justfile
       - id: trivy-config
         name: trivy config
         entry: trivy
