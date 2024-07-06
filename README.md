@@ -35,4 +35,4 @@ Follow the guidance in the *CONTRIBUTING* document to set up a development envir
 
 This project is licensed under the [MIT](https://spdx.org/licenses/MIT.html) license © 2024-present Stuart Ellis.
 
-This project is compliant with [version 3.0 of the REUSE Specification](https://reuse.software/spec/).
+This project is compliant with [version 3.2 of the REUSE Specification](https://reuse.software/spec/).
