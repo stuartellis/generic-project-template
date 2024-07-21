@@ -4,11 +4,11 @@ SPDX-FileCopyrightText: 2024-present Stuart Ellis <stuart@stuartellis.name>
 SPDX-License-Identifier: MIT
 -->
 
-# generic-project-template
+# generic-python-template
 
 ![stability: experimental](https://img.shields.io/badge/stability-experimental-orange) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-Generic project template using the [Copier](https://copier.readthedocs.io/) tool.
+Generic template for Python projects. This uses the [Copier](https://copier.readthedocs.io/) tool.
 
 -----
 
